@@ -1,0 +1,42 @@
+html {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+* {
+    text-align: center;
+}
+
+
+p {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-top: 10px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#td-left {
+    text-align: center;
+    background: #88faef;
+    width: 37%;
+}
+
+#td-mid {
+    text-align: center;
+    background: #8af5e8;
+    font-size: 90%;
+}
+
+#td-right {
+    text-align: center;
+    background: #85f8eb;
+    font-size: 90%;
+}
+
