@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+p{
+    background-color: azure;
+
+}
+
+h2 {
+    border: 2px dotted green;
+    border-radius: 10px;
+}
+
+h3 {
+    border: 2px dashed red;
+    border-radius: 10px;
+}
+
+img {
+    margin-top: 20px;
+}
+
+ul > li {
+    color: purple;
+    background-color: lightgrey;
+}
+
+ol > li {
+    background-color: palevioletred;
+    color: greenyellow
+}
